@@ -1,6 +1,6 @@
 //================= CONFIG =================
 // Global Variables
-let websocket_uri = 'ws://104.197.76.238:23000/ws';
+let websocket_uri = 'wss://104.197.76.238:23000/ws';
 let bufferSize = 4096,
     AudioContext,
     context,
